@@ -1,0 +1,16 @@
+# Site settings
+title: Daniel Pellatt
+url: "https://danielpellatt.github.io" # the base hostname & protocol for your site
+description: |+
+  I am a Ph.D. candidate in Economics at the University of California, San Diego. My field of research is econometrics.<br>I am available for interviews on the 2022-2023 job market.<br><br>You can reach me at <b>dpellatt@ucsd.edu</b>
+
+theme: jekyll-theme-minimal
+
+
+github:
+  is_user_page: false
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
+powered_by: false
