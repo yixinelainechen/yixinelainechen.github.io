@@ -4,8 +4,10 @@ url: "https://nvkudrin.github.io" # the base hostname & protocol for your site
 description: |+
   I am a Ph.D. candidate in Economics at the University of California San Diego. My primary field of research is Econometrics.<br>I am available for interviews on the 2022-2023 job market.<br><br> Email address <b>nkudrin@ucsd.edu</b>
 
-theme: jekyll-theme-minimal
-
+#theme: jekyll-theme-minimal
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 github:
   is_user_page: false
