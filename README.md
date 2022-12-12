@@ -6,5 +6,14 @@ Contact: <b>nkudrin@ucsd.edu</b>
   
 <img alt="an image of me" src="assets/images/headshot.jpeg" width="auto" height="auto" max-width="50vh">
 
-
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
 
