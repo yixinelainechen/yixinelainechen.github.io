@@ -5,7 +5,7 @@ a:link {
   text-decoration: none;
 }
 a:visited {
-  color: pink;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
