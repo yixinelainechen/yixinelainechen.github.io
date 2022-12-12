@@ -4,7 +4,7 @@
 <!--I am a Ph.D. candidate in Economics at the University of California San Diego. My primary field of research is Econometrics.<br>I am available for interviews on the 2022-2023 job market.<br><br> 
 Contact: <b>nkudrin@ucsd.edu</b>-->
   
-#<img alt="an image of me" src="assets/images/headshot.jpeg" width="auto" height="auto" max-width="50vh">
+<!--#<img alt="an image of me" src="assets/images/headshot.jpeg" width="auto" height="auto" max-width="50vh">-->
 
 <table border="0">
  <tr>
