@@ -12,12 +12,12 @@ a:visited {
 a:hover {
   color: red;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 a:active {
   color: yellow;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 </style>
 
