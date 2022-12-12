@@ -1,6 +1,6 @@
 <style>
 a:link {
-  color: green;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
