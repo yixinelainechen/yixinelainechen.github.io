@@ -1,3 +1,26 @@
+<style>
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+
 <h2> <a href="{{site.url}}/assets/pdfs/resume.pdf"><span style="text-decoration: underline;">CV</span></a><a href="{{site.url}}/research.html"><span style="text-decoration: underline; padding:30px">Research</span></a><a href="{{site.url}}/teaching.html"><span style="text-decoration: underline;">Teaching</span></a></h2>
 
 <!--I am a Ph.D. candidate in Economics at the University of California San Diego. My primary field of research is Econometrics.<br>I am available for interviews on the 2022-2023 job market.<br><br> 
