@@ -1,1 +1,1 @@
-<embed src="./assets/pdfs/" type="application/pdf">
+<embed src="./assets/pdfs/none" type="application/pdf">
