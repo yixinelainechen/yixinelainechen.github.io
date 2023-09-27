@@ -30,8 +30,8 @@ Contact: <b>nkudrin@ucsd.edu</b>-->
 
 <table border="0">
  <tr>
-    <td>I am the Weatherall Postdoctoral Fellow at the department of Economics at Queen's University. My primary field of research is <i>Econometrics</i>. Prior to joining Queen's, I received my PhD from the department of Economics at UC San Diego. <br> 
-Contact: <b>n.kudrin@queensu.ca</b>.</td>
-    <td><img alt="an image of me" src="assets/images/headshot.jpeg" width="auto" height="auto" max-width="50vh"></td>
+    <td>I am a PhD Candidate at UC Santa Barbara. My primary research interests are in labor economics, public economics, and health economics. My current research focuses on the economics of crime and policing, as well as policies aimed at improving lives of children.  <br> 
+Contact: <b>yixinchen@ucsb.edu</b>.</td>
+    <td><img alt="an image of me" src="assets/images/headshot2.jpeg" width="auto" height="auto" max-width="50vh"></td>
  </tr>
 </table>
