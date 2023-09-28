@@ -30,7 +30,7 @@ Contact: <b>nkudrin@ucsd.edu</b>-->
 
 <table border="0">
  <tr>
-    <td>I am a PhD Candidate at UC Santa Barbara. My primary research interests are in labor economics, public economics, and health economics. My current research focuses on the economics of crime and policing, as well as policies aimed at improving lives of children.  <br> 
+    <td>I am a PhD Candidate at UC Santa Barbara. My primary research interests are labor economics and applied microeconomics. My current research focuses on the economics of crime and policing, the economics of gender, as well as the economics of health.   <br> 
 Contact: <b>yixinchen@ucsb.edu</b>.</td>
     <td><img alt="an image of me" src="assets/images/headshot2.jpg" width="auto" height="auto" max-width="50vh"></td>
  </tr>
