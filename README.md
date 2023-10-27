@@ -21,7 +21,7 @@ a:active {
 }
 </style>
 
-<h2> <a href="{{site.url}}/assets/pdfs/resume.pdf"><span style="text-decoration: underline;">CV</span></a><a href="{{site.url}}/research.html"><span style="text-decoration: underline; padding:30px">Research</span></a><a href="{{site.url}}/teaching.html"><span style="text-decoration: underline;">Teaching</span></a></h2>
+<h2> <a href="{{site.url}}/assets/pdfs/CV_Kudrin.pdf"><span style="text-decoration: underline;">CV</span></a><a href="{{site.url}}/research.html"><span style="text-decoration: underline; padding:30px">Research</span></a><a href="{{site.url}}/teaching.html"><span style="text-decoration: underline;">Teaching</span></a></h2>
 
 <!--I am the Weatherall Postdoctoral Fellow at the department of Economics at Queen's University. My primary field of research is <i>Econometrics</i>.<br>Prior to joining Queen's, I received my PhD from the department of Economics at UC San Diego.<br><br> 
 Contact: <b>nkudrin@ucsd.edu</b>-->
