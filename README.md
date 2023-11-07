@@ -34,8 +34,8 @@ Contact: <b>nkudrin@ucsd.edu</b>-->
 economics and applied microeconomics. My work uses causal inference approaches to study
 policy-related questions in these fields. Issues include how female officers affect reports of
 domestic violence, how college basketball game days affect local sexual assault reports, and
-how health policies affect children’s nutrition levels.  
-      I am on the 2023-2024 job market.<br> 
+how health policies affect children’s nutrition levels.<br>
+      <td>I am on the 2023-2024 job market.<br> 
 Contact: <b>yixinchen@ucsb.edu</b>.</td>
     <td><img alt="an image of me" src="assets/images/headshot2.jpg" width="auto" height="auto" max-width="50vh"></td>
  </tr>
