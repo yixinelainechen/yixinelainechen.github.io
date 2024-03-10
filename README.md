@@ -23,13 +23,15 @@ a:active {
 
 <h2> <a href="{{site.url}}/assets/pdfs/resume.pdf"><span style="text-decoration: underline;">CV</span></a><a href="{{site.url}}/research.html"><span style="text-decoration: underline; padding:30px">Research</span></a><a href="{{site.url}}/teaching.html"><span style="text-decoration: underline;">Teaching</span></a></h2>
 
-<table border="0">
- <tr>
-    <td style="text-align: left; vertical-align: top;">
+
+ </h2>
+    <p>
       I am a PhD candidate in the Department of Economics at the University of California, Santa Barbara. My research interests are applied econometrics, labor economics, public economics, and applied microeconomics. My expertise is to use econometric methods to analyze large data sets and study economic questions. <br>
     I am on the 2023-2024 job market.<br>
     Contact: <b>yixinchen@ucsb.edu</b>.</td>
-   <td style="text-align: right; vertical-align: top;">
+  </p>
+  </div>
+  <div style="width: 50%; text-align: right;">
    <img alt="an image of me" src="assets/images/headshot2.jpg" width="auto" height="auto" max-width="50vh"></td>
  </tr>
 </table>
