@@ -25,7 +25,7 @@ a:active {
 
 <table border="0" width="100%">
  <tr>
-     <td style="text-align: justify;">
+     <td style="vertical-align: top; text-align: justify;">
     I am a PhD candidate in the Department of Economics at the University of California, Santa Barbara. My research interests are applied econometrics, labor economics, public economics, and applied microeconomics. My expertise is to use econometric methods to analyze large data sets and study economic questions. <br><br>
     I am on the 2023-2024 job market.<br>
     Contact: <b>yixinchen@ucsb.edu</b>.</td>
