@@ -25,11 +25,7 @@ a:active {
 
 <table border="0">
  <tr>
-    <td>I am a PhD Candidate in Economics at UC Santa Barbara. My research interests are in labor
-economics and applied microeconomics. My work uses causal inference approaches to study
-policy-related questions in these fields. Issues include how female officers affect reports of
-domestic violence, how college basketball game days affect local sexual assault reports, and
-how health policies affect children’s nutrition levels.<br>
+    <td>I am a PhD candidate in the Department of Economics at the University of California, Santa Barbara. My research interests are applied econometrics, labor economics, public economics, and applied microeconomics. My expertise is to use econometric methods to analyze large data sets and study economic questions. <br>
     I am on the 2023-2024 job market.<br>
     Contact: <b>yixinchen@ucsb.edu</b>.</td>
     <td><img alt="an image of me" src="assets/images/headshot2.jpg" width="auto" height="auto" max-width="50vh"></td>
