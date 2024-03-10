@@ -25,7 +25,8 @@ a:active {
 
 <table border="0">
  <tr>
-    <td>I am a PhD candidate in the Department of Economics at the University of California, Santa Barbara. My research interests are applied econometrics, labor economics, public economics, and applied microeconomics. My expertise is to use econometric methods to analyze large data sets and study economic questions. <br>
+    <td style="text-align: justify;">
+    I am a PhD candidate in the Department of Economics at the University of California, Santa Barbara. My research interests are applied econometrics, labor economics, public economics, and applied microeconomics. My expertise is to use econometric methods to analyze large data sets and study economic questions. <br>
     I am on the 2023-2024 job market.<br>
     Contact: <b>yixinchen@ucsb.edu</b>.</td>
     <td><img alt="an image of me" src="assets/images/headshot2.jpg" width="auto" height="auto" max-width="50vh"></td>
