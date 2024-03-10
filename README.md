@@ -28,6 +28,6 @@ a:active {
 I am on the 2023-2024 job market.<br>
     Contact: <b>yixinchen@ucsb.edu</b>.
     </td>
-    <td><img alt="an image of me" src="assets/images/headshot2.jpg" width="auto" height="auto" max-width="50vh"></td>
+    <td style="text-align: right;"><img alt="an image of me" src="assets/images/headshot2.jpg" width="auto" height="auto" max-width="50vh"></td>
   </tr>
 </table>
