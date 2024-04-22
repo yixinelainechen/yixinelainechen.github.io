@@ -26,12 +26,12 @@ a:active {
 <!--I am the Weatherall Postdoctoral Fellow at the department of Economics at Queen's University. My primary field of research is <i>Econometrics</i>.<br>Prior to joining Queen's, I received my PhD from the department of Economics at UC San Diego.<br><br> 
 Contact: <b>nkudrin@ucsd.edu</b>-->
   
-<!--#<img alt="an image of me" src="assets/images/cropped.png" width="auto" height="auto" max-width="50vh">-->
+<!--#<img alt="an image of me" src="assets/images/PhotoQueens.jpg" width="auto" height="auto" max-width="50vh">-->
 
 <table border="0">
  <tr>
     <td>I am the Weatherall Postdoctoral Fellow at the department of Economics at Queen's University. My primary field of research is <i>Econometrics</i>. Prior to joining Queen's, I received my PhD from the department of Economics at UC San Diego. <br> 
 Contact: <b>n.kudrin@queensu.ca</b>.</td>
-    <td><img alt="an image of me" src="assets/images/cropped.png" width="auto" height="auto" max-width="50vh"></td>
+    <td><img alt="an image of me" src="assets/images/PhotoQueens.jpg" width="auto" height="auto" max-width="50vh"></td>
  </tr>
 </table>
