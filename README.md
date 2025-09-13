@@ -30,8 +30,8 @@ Contact: <b>nkudrin@ucsd.edu</b>-->
 
 <table border="0">
  <tr>
-    <td>I am the Weatherall Postdoctoral Fellow at the department of Economics at Queen's University. My primary field of research is <i>Econometrics</i>. Prior to joining Queen's, I received my PhD from the department of Economics at UC San Diego. <br> 
-Contact: <b>n.kudrin@queensu.ca</b>.</td>
+    <td>I received my PhD from the department of economics at UC Santa Barbara in 2024. Then, I worked as a postdoctoral research associate at New Mexico Tech for around one year. My research interests are labor economics, environmental economics, applied econometrics, and accounting. <br> 
+Contact: <b>yixinchen@ucsb.edu</b>.</td>
     <td><img alt="an image of me" src="assets/images/headshot2.jpg" width="auto" height="auto" max-width="50vh"></td>
  </tr>
 </table>
