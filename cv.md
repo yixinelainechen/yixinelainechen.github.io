@@ -1,1 +1,1 @@
-<embed src="./assets/pdfs/CV_Kudrin.pdf" type="application/pdf">
+<embed src="./assets/pdfs/bp.pdf" type="application/pdf">
