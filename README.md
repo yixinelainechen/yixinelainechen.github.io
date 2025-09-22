@@ -30,7 +30,7 @@ Contact: <b>nkudrin@ucsd.edu</b>-->
 
 <table border="0">
  <tr>
-    <td>I received my PhD from the department of economics at UC Santa Barbara in 2024. Then, I worked as a postdoctoral research associate at New Mexico Tech for around one year. My research interests are labor economics, environmental economics, applied econometrics, and accounting. <br> 
+    <td>I obtained my PhD degree in Economics at the University of California, Santa Barbara in June 2024. I finished the one-year postdoc at New Mexico Tech in August 2025. My research interests are labor economics, environmental economics, applied econometrics, and accounting. <br> 
 Contact: <b>yixinchen@ucsb.edu</b>.</td>
     <td><img alt="an image of me" src="assets/images/headshot2.jpg" width="auto" height="auto" max-width="50vh"></td>
  </tr>
