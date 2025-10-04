@@ -38,5 +38,3 @@ Contact: <b>nkudrin@ucsd.edu</b>-->
    <td><img alt="an image of me" src="assets/images/headshot2.jpg" width="auto" height="auto" max-width="50vh"></td>
  </tr>
 </table>
-
-
